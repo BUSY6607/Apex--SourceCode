@@ -1,0 +1,6 @@
+This folder is used by Apex's ticket system to temporarily store generated
+HTML transcripts when a ticket is closed.
+
+It is normally empty in this repository — Apex automatically deletes each
+transcript file from disk a few seconds after it has been sent to the ticket
+log channel, so nothing persists here between ticket closures.
