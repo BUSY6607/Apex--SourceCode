@@ -4,7 +4,7 @@ A moderation-focused Discord bot built with discord.js v14 and MongoDB.
 
 Apex includes a full ticket system, application/recruitment system, member reports, anti-raid protection, auto-mod (censor + auto-responder), role automation, inactivity pinging, a no-code embed builder (Interaction Studio), and the standard moderation toolkit (ban/kick/mute/warn/etc).
 
-For a full breakdown of every command and how each system works, see [Apex-Guide](https://github.com/) (link to your guide repo).
+For a full breakdown of every command and how each system works, see [Apex-Guide](https://github.com/) (link to guide repo).
 
 ---
 
